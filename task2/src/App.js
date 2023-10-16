@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Calculator/>
-      <h2>Design Work in progress also useState functionality to be implemented in textarea</h2>
+      <h2>Design Work in progress also useState functionality to be implemented in textarea need to add more thing</h2>
     </div>
   );
 }
